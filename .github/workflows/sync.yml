@@ -1,11 +1,11 @@
-name: Hourly Sync
+name: Sync
 
 on:
   schedule:
-    # Each repo gets its own minute (39 * * * *) instead of every mirror firing at
+    # Each repo gets its own minute (39 */6 * * *) instead of every mirror firing at
     # the same time. 51 repos on one minute read as a bulk burst to any host
     # watching commit patterns.
-    - cron: '39 * * * *'
+    - cron: '39 */6 * * *'
   workflow_dispatch:
 
 permissions:
