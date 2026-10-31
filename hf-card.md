@@ -62,15 +62,15 @@ Total deals tracked: **7**
 
 ### 2026 (7 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
-| 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
-| 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
-| 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
-| 2026-04-02 | 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
-| 2026-02-15 | 14% Discount on Evaluation Account Fees | 14% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
-| 2026-01-05 | New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
+| 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
+| 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
+| 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
+| 2026-04-02 | 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
+| 2026-02-15 | 14% Discount on Evaluation Account Fees | 14% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
+| 2026-01-05 | New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
 
 ---
 
@@ -97,6 +97,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
