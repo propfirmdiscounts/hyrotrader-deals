@@ -36,6 +36,7 @@ As of 2026-10-24, the verified HyroTrader discount code is **PFD** — up to 5% 
 - Published: 2026-10-24
 - Offer ends: 2026-10-31
 - Offer: 15% off
+- Event: Halloween
 - Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/
@@ -64,13 +65,13 @@ Total deals tracked: **7**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
+| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
 | 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
 | 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
-| 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
-| 2026-04-02 | 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
-| 2026-02-15 | 14% Discount on Evaluation Account Fees | 14% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
-| 2026-01-05 | New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
+| 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
+| 2026-04-02 | 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
+| 2026-02-15 | 14% Discount on Evaluation Account Fees | 14% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
+| 2026-01-05 | New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
 
 ---
 
