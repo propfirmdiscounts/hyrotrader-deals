@@ -1,135 +1,135 @@
 [
   {
-    "prop_firm": "HyroTrader",
-    "prop_firm_slug": "hyrotrader",
-    "standing_code": "PFD",
-    "standing_discount": "5%",
-    "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
     "deal_id": 13018,
     "title": "Halloween cut of 15% on every challenge fee",
-    "date_published": "2026-10-24",
-    "date_exp": "2026-10-31",
-    "discount_value": "15%",
-    "last_verified": "2026-10-24",
     "offer_type": "coupon",
+    "discount_value": "15%",
     "scope": [
       "All Challenges"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/"
-  },
-  {
+    "date_published": "2026-10-24",
+    "date_exp": "2026-10-31",
+    "last_verified": "2026-10-24",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 12690,
     "title": "10% Discount on Evaluation Accounts",
-    "date_published": "2026-09-18",
-    "date_exp": "Ended",
-    "discount_value": "10%",
-    "last_verified": "2026-09-18",
     "offer_type": "coupon",
+    "discount_value": "10%",
     "scope": [
       "Evaluation Challenges"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/"
-  },
-  {
+    "date_published": "2026-09-18",
+    "date_exp": "Ended",
+    "last_verified": "2026-09-18",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 12231,
     "title": "10% Discount on Updated Challenge Pricing",
-    "date_published": "2026-06-23",
-    "date_exp": "Ended",
-    "discount_value": "10%",
-    "last_verified": "2026-06-23",
     "offer_type": "coupon",
+    "discount_value": "10%",
     "scope": [
       "1-Step, 2-Step, $5K-$200K Accounts"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/"
-  },
-  {
+    "date_published": "2026-06-23",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-23",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 12198,
     "title": "World Cup: 15% Off All Evaluation Accounts",
+    "offer_type": "coupon",
+    "discount_value": "15%",
+    "scope": [
+      "All Challenges, All Account Sizes"
+    ],
     "date_published": "2026-06-13",
     "date_exp": "Ended",
-    "discount_value": "15%",
     "last_verified": "2026-06-13",
-    "offer_type": "coupon",
-    "scope": [
-      "All Challenges, All Account Sizes"
-    ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/"
-  },
-  {
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 11617,
     "title": "20% Off Evaluation Accounts: Easter Cost Reduction",
-    "date_published": "2026-04-02",
-    "date_exp": "Ended",
-    "discount_value": "20%",
-    "last_verified": "2026-04-02",
     "offer_type": "coupon",
+    "discount_value": "20%",
     "scope": [
       "All Challenges, All Account Sizes"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/"
-  },
-  {
+    "date_published": "2026-04-02",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-02",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 11172,
     "title": "14% Discount on Evaluation Account Fees",
-    "date_published": "2026-02-15",
-    "date_exp": "Ended",
-    "discount_value": "14%",
-    "last_verified": "2026-02-15",
     "offer_type": "coupon",
+    "discount_value": "14%",
     "scope": [
       "Single Challenge, Evaluation Accounts"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/"
-  },
-  {
+    "date_published": "2026-02-15",
+    "date_exp": "Ended",
+    "last_verified": "2026-02-15",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/",
     "prop_firm": "HyroTrader",
     "prop_firm_slug": "hyrotrader",
     "standing_code": "PFD",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 11173,
     "title": "New Year Deal: 20% Discount on Trading Challenges",
-    "date_published": "2026-01-05",
-    "date_exp": "Ended",
-    "discount_value": "20%",
-    "last_verified": "2026-01-05",
     "offer_type": "coupon",
+    "discount_value": "20%",
     "scope": [
       "All Challenges, New Year 2026 Event"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/"
+    "date_published": "2026-01-05",
+    "date_exp": "Ended",
+    "last_verified": "2026-01-05",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/",
+    "prop_firm": "HyroTrader",
+    "prop_firm_slug": "hyrotrader",
+    "standing_code": "PFD",
+    "standing_discount": "5%",
+    "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
   }
 ]
