@@ -34,7 +34,7 @@ As of 2026-10-24, the verified HyroTrader discount code is PFD — up to 5% OFF,
 ## Current HyroTrader deal: Halloween cut of 15% on every challenge fee
 
 - Published: 2026-10-24
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 15% off
 - Event: Halloween
 - Scope: All Challenges
@@ -53,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current HyroTrader deal?**
 
-**Halloween cut of 15% on every challenge fee** — published 2026-10-24. Offer ends: 2026-10-31. The offer is 15% off.
+**Halloween cut of 15% on every challenge fee** — published 2026-10-24. Offer ends: 2026-10-31 (ended). The offer is 15% off.
 
 ---
 
@@ -65,7 +65,7 @@ Total deals tracked: **7**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
+| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
 | 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
 | 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
 | 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
