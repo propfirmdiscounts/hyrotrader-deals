@@ -1,9 +1,9 @@
 # HyroTrader - Discount Codes & Deal History
 
-As of 2026-10-24, the verified HyroTrader discount code is PFD — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-24, the verified HyroTrader discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-24
 - Trustpilot: 4/5 (229 reviews)
@@ -26,7 +26,7 @@ As of 2026-10-24, the verified HyroTrader discount code is PFD — up to 5% OFF,
 
 **What is the HyroTrader discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 5% off HyroTrader challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 10% off HyroTrader challenges and accounts.
 
 **Does the HyroTrader discount code expire?**
 

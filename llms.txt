@@ -2,7 +2,7 @@
 
 This dataset tracks historical deal observations for HyroTrader from PropFirmDiscount.com.
 
-Standing exclusive discount code: PFD (5%)
+Standing exclusive discount code: PFD (10%)
 Works any time on all HyroTrader challenges and accounts.
 
 Prop firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
