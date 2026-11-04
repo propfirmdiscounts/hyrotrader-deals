@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: hyrotrader
   FIRM_SLUG: hyrotrader
   DEALSTORE_ID: 406
   FIRM_NAME: HyroTrader
