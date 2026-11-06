@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13171,
+    "title": "Hyro Instant Launch 15% Off First 30",
+    "offer_type": "coupon",
+    "discount_value": "15%",
+    "scope": [
+      "Hyro Instant Accounts (First 30 Purchases)"
+    ],
+    "date_published": "2026-11-06",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-06",
+    "post_url": "https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/",
+    "prop_firm": "HyroTrader",
+    "prop_firm_slug": "hyrotrader",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/hyrotrader",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/hyrotrader/"
+  },
+  {
     "deal_id": 13018,
     "title": "Halloween cut of 15% on every challenge fee",
     "offer_type": "coupon",

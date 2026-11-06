@@ -1,26 +1,25 @@
 # HyroTrader - Discount Codes & Deal History
 
-As of 2026-10-24, the verified HyroTrader discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-06, the verified HyroTrader discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-24
+- Last deal published: 2026-11-06
 - Trustpilot: 4/5 (229 reviews)
 - Activate: https://propfirmdiscount.com/go/hyrotrader
 - Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current HyroTrader deal: Halloween cut of 15% on every challenge fee
+## Current HyroTrader deal: Hyro Instant Launch 15% Off First 30
 
-- Published: 2026-10-24
-- Offer ends: 2026-10-31 (ended)
+- Published: 2026-11-06
+- Offer ends: Limited time
 - Offer: 15% off
-- Event: Halloween
-- Scope: All Challenges
+- Scope: Hyro Instant Accounts (First 30 Purchases)
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/
+- Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/
 
 ## HyroTrader discount code FAQ
 
@@ -34,18 +33,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current HyroTrader deal?**
 
-**Halloween cut of 15% on every challenge fee** — published 2026-10-24. Offer ends: 2026-10-31 (ended). The offer is 15% off.
+**Hyro Instant Launch 15% Off First 30** — published 2026-11-06. Offer ends: Limited time. The offer is 15% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **7**
+Total deals tracked: **8**
 
-### 2026 (7 deals)
+### 2026 (8 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | Hyro Instant Launch 15% Off First 30 | 15% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) |
 | 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
 | 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
 | 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
