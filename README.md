@@ -1,9 +1,9 @@
 # HyroTrader - Discount Codes & Deal History
 
-As of 2026-11-06, the verified HyroTrader discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-06, the verified HyroTrader discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
 - Trustpilot: 4.1/5 (231 reviews)
@@ -25,7 +25,7 @@ As of 2026-11-06, the verified HyroTrader discount code is PFD — up to 10% OFF
 
 **What is the HyroTrader discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 10% off HyroTrader challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 10% off HyroTrader challenges and accounts.
 
 **Does the HyroTrader discount code expire?**
 
@@ -45,14 +45,14 @@ Total deals tracked: **8**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-06 | Hyro Instant Launch 15% Off First 30 | 15% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) |
-| 2026-10-24 | Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
-| 2026-09-18 | 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
-| 2026-06-23 | 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
-| 2026-06-13 | World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
-| 2026-04-02 | 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
-| 2026-02-15 | 14% Discount on Evaluation Account Fees | 14% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
-| 2026-01-05 | New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
+| 2026-11-06 | HyroTrader: Hyro Instant Launch 15% Off First 30 | 15% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/) |
+| 2026-10-24 | HyroTrader: Halloween cut of 15% on every challenge fee | 15% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-halloween-15-off-all-challenges/) |
+| 2026-09-18 | HyroTrader: 10% Discount on Evaluation Accounts | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-off-challenges/) |
+| 2026-06-23 | HyroTrader: 10% Discount on Updated Challenge Pricing | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-10-discount-pricing-update/) |
+| 2026-06-13 | HyroTrader: World Cup: 15% Off All Evaluation Accounts | 15% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-world-cup-15-off/) |
+| 2026-04-02 | HyroTrader: 20% Off Evaluation Accounts: Easter Cost Reduction | 20% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-20-percent-off-easter-discount/) |
+| 2026-02-15 | HyroTrader: 14% Discount on Evaluation Account Fees | 14% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-valentine-14-percent-off/) |
+| 2026-01-05 | HyroTrader: New Year Deal: 20% Discount on Trading Challenges | 20% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-new-year-2026-20-percent-off/) |
 
 ---
 
