@@ -1,6 +1,6 @@
 # HyroTrader - Discount Codes & Deal History
 
-As of 2026-11-06, the verified HyroTrader discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified HyroTrader discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
