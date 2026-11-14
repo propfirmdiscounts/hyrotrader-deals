@@ -148,12 +148,14 @@ jobs:
           # whose deals carry their own campaign codes, attaching the standing
           # code to the deal would be wrong, so the line states only the
           # standing rate.
+          from datetime import datetime, timezone
+          now_month = datetime.now(timezone.utc).strftime('%Y-%m')
           if is_global:
-              answer = (f"As of {latest['date_published']}, {firm['name']} deals run "
+              answer = (f"As of {now_month}, {firm['name']} deals run "
                         f"{discount_pct} OFF with code {code}, which works any time — the "
                         f"newest is {raw_newest_title}.")
           else:
-              answer = (f"As of {last_deal}, the verified {firm['name']} discount code is "
+              answer = (f"As of {now_month}, the verified {firm['name']} discount code is "
                         f"{code} — {discount_pct} OFF, works any time. Its current "
                         f"deals run their own limited-time campaign codes.")
           readme += answer + '\n\n'
