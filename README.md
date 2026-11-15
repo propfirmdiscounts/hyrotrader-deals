@@ -7,10 +7,11 @@ As of 2026-11, the verified HyroTrader discount code is PFD — 10% OFF, works a
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
 - Trustpilot: 4.1/5 (231 reviews)
-- Activate: https://propfirmdiscount.com/go/hyrotrader
-- Firm page: https://propfirmdiscount.com/prop-firm/hyrotrader/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/hyrotrader-deals](https://github.com/propfirmdiscounts/hyrotrader-deals)
+- Activate: [https://propfirmdiscount.com/go/hyrotrader](https://propfirmdiscount.com/go/hyrotrader)
+- Firm page: [https://propfirmdiscount.com/prop-firm/hyrotrader/](https://propfirmdiscount.com/prop-firm/hyrotrader/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current HyroTrader deal: Hyro Instant Launch 15% Off First 30
 
@@ -19,7 +20,7 @@ As of 2026-11, the verified HyroTrader discount code is PFD — 10% OFF, works a
 - Offer: 15% off
 - Scope: Hyro Instant Accounts (First 30 Purchases)
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/
+- Deal page: [https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/)
 
 ## HyroTrader discount code FAQ
 
@@ -60,9 +61,9 @@ Total deals tracked: **8**
 
 This repository mirrors every deal **HyroTrader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/hyrotrader/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/hyrotrader/](https://propfirmdiscount.com/prop-firm/hyrotrader/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/hyrotrader-deals.json`
 
