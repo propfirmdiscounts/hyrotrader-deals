@@ -6,7 +6,7 @@ As of November 2026, the verified HyroTrader discount code is PFD — 10% OFF, w
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
-- Trustpilot: 4.1/5 (231 reviews)
+- Trustpilot: [4/5 (236 reviews)](https://www.trustpilot.com/review/hyrotrader.com)
 - GitHub repository: [HyroTrader Deals Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
 - Activate: [Activate HyroTrader Discount Code](https://propfirmdiscount.com/go/hyrotrader)
 - Firm page: [HyroTrader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/hyrotrader/)
