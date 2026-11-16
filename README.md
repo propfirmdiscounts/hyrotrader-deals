@@ -1,10 +1,10 @@
-# HyroTrader - Discount Codes & Deal History
+# HyroTrader Discount Code & Deal History
 
-As of November 2026, the verified HyroTrader discount code is PFD — 5% OFF, which can be applied on the checkout page anytime. The newest is "Hyro Instant Launch 15% Off First 30".
+As of November 2026, the verified HyroTrader discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "Hyro Instant Launch 15% Off First 30".
 
 - Code: PFD
 - Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: 4.1/5 (231 reviews)
 - GitHub repository: [HyroTrader Deals Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
@@ -13,7 +13,7 @@ As of November 2026, the verified HyroTrader discount code is PFD — 5% OFF, wh
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [HyroTrader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current HyroTrader deal: Hyro Instant Launch 15% Off First 30
+## Latest HyroTrader deal: Hyro Instant Launch 15% Off First 30
 
 - Published: 2026-11-06
 - Offer ends: Limited time
@@ -22,7 +22,7 @@ As of November 2026, the verified HyroTrader discount code is PFD — 5% OFF, wh
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [HyroTrader Deal Page](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/)
 
-## HyroTrader discount code FAQ
+## HyroTrader Discount Code & Deals FAQ
 
 **What is the HyroTrader discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## HyroTrader Deal History
 
 Total deals tracked: **8**
 
@@ -57,7 +57,7 @@ Total deals tracked: **8**
 
 ---
 
-## About this repository
+## About the HyroTrader Deals Dataset
 
 This repository mirrors every deal **HyroTrader** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -65,7 +65,7 @@ This repository mirrors every deal **HyroTrader** has published on PropFirmDisco
 - Prop firm profile: [HyroTrader Profile](https://propfirmdiscount.com/prop-firm/hyrotrader/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/hyrotrader-deals.json`
+## HyroTrader Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -97,13 +97,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
