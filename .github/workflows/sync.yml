@@ -455,8 +455,15 @@ jobs:
           try:
               escaped_desc = answer.replace('"', '\\"')
               safe_title = site_title.replace('"', '\\"')
+              # The layout's <title> reads site.title, so the H1 no longer has
+              # to be suppressed: page.title still comes from the README H1 via
+              # jekyll-titles-from-headings, which is what the breadcrumb and
+              # the structured data are meant to mirror. An earlier revision
+              # turned that plugin off to make <title> win; drop the leftover
+              # key so a repo that ran it returns to the same shape.
               if os.path.exists('_config.yml'):
                   cfg = open('_config.yml', encoding='utf-8').read()
+                  cfg = re.sub(r'^titles_from_headings:\n(?:[ \t]+.*\n)*', '', cfg, flags=re.M)
                   cfg = re.sub(r'^title:[^\n]+', lambda _: f'title: "{safe_title}"', cfg, flags=re.M)
                   cfg_lines = cfg.splitlines()
                   for i, l in enumerate(cfg_lines):
@@ -555,7 +562,7 @@ jobs:
                   <meta charset="UTF-8">
                   <meta http-equiv="X-UA-Compatible" content="IE=edge">
                   <meta name="viewport" content="width=device-width, initial-scale=1">
-                  <title>{{{{ page.title | default: site.title }}}}</title>
+                  <title>{{{{ site.title }}}}</title>
                   <!-- Google tag (gtag.js) -->
                   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JRN9LT8NNF"></script>
                   <script>
@@ -890,8 +897,8 @@ jobs:
       - name: Commit and push
         run: |
           set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Prop Firm Discount"
+          git config user.email "73492456+propfirmdiscounts@users.noreply.github.com"
           # A per-repo favicon.ico was copied into every mirror by a one-off
           # deploy script. Nothing reads it: _layouts/default.html points the
           # icon links at the org root, so the copy served no page. Dropping it
