@@ -148,6 +148,13 @@ jobs:
           # is many deals, and a repo is also the dataset itself.
           head = f"{firm['name']} Discount Code, Deals History & Dataset"
 
+          # The site name is a second, narrower line: the page title, the
+          # breadcrumb and the og:title. It can state the code and the rate
+          # because it is not a head term — the H1 above carries the words
+          # people search, and stays the same whichever state the firm is in.
+          # With no code there is nothing to add, so the page keeps the plain
+          # name rather than advertising a code it does not hold.
+
           activation = record.get('activation_link') or ''
 
           # For global firms, the standing code's % discount matches the current deal's % discount,
@@ -168,6 +175,14 @@ jobs:
               if deal_days_old <= 30 and m_deal_pct:
                   discount_pct = m_deal_pct.group(0)
                   discount = add_off(discount_pct)
+
+          # Built after the global-firm rate override above, so the title quotes
+          # the same rate the rest of the page does.
+          if has_code:
+              site_title = f"{firm['name']} Discount Code {code} ({discount}) | Deals & Dataset"
+          else:
+              site_title = head
+
           tp_score = record.get('trustpilot_score')
           tp_reviews = record.get('trustpilot_reviews')
           tp_url = record.get('trustpilot_url') or ''
@@ -439,7 +454,7 @@ jobs:
 
           try:
               escaped_desc = answer.replace('"', '\\"')
-              safe_title = head.replace('"', '\\"')
+              safe_title = site_title.replace('"', '\\"')
               if os.path.exists('_config.yml'):
                   cfg = open('_config.yml', encoding='utf-8').read()
                   cfg = re.sub(r'^title:[^\n]+', lambda _: f'title: "{safe_title}"', cfg, flags=re.M)
