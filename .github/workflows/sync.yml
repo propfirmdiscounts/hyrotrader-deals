@@ -143,9 +143,10 @@ jobs:
           # The H1 is one fixed string for every firm. It used to switch to
           # "Deals & Deal History" when the firm had no standing code, which
           # made one family of repos carry two different head terms for the
-          # same kind of page. "Discount Codes" still holds without a standing
-          # code: the deals each carry their own campaign code.
-          head = f"{firm['name']} Discount Codes & Deal History"
+          # same kind of page. Singular "Discount Code" is deliberate: a firm
+          # holds at most one standing code. The history is plural because it
+          # is many deals, and a repo is also the dataset itself.
+          head = f"{firm['name']} Discount Code, Deals History & Dataset"
 
           activation = record.get('activation_link') or ''
 
@@ -279,7 +280,7 @@ jobs:
               else:
                   readme += f"- Trustpilot: {tp_score}/5 ({tp_reviews} reviews)\n"
           repo_url = f"https://github.com/propfirmdiscounts/{slug}-deals"
-          readme += f"- GitHub repository: [{firm['name']} Deals Repository]({repo_url})\n"
+          readme += f"- GitHub repository: [{firm['name']} Discount Code & Deals History Repository]({repo_url})\n"
           if activation:
               readme += f"- Activate: [Activate {firm['name']} Discount Code]({activation})\n"
           readme += f"- Firm page: [{firm['name']} Page on PropFirmDiscount]({firm['url']})\n"
@@ -315,7 +316,7 @@ jobs:
           # its code: "{code}." with an empty code prints a lone ".", and the
           # expiry answer would still promise a standing code that no longer
           # exists. Both are replaced with the true statement for that firm.
-          readme += f"""## {firm['name']} Discount Code & Deals FAQ
+          readme += f"""## {firm['name']} Discount Code & Deals History FAQ
 
           """
           if has_code:
@@ -342,7 +343,7 @@ jobs:
 
           readme += f"""---
 
-          ## {firm['name']} Deal History
+          ## {firm['name']} Deals History
 
           Total deals tracked: **{len(obs['observations'])}**
 
@@ -368,7 +369,7 @@ jobs:
 
           readme += f"""---
 
-          ## About the {firm['name']} Deals Dataset
+          ## About the {firm['name']} Discount Code & Deals History Dataset
 
           This repository mirrors every deal **{firm['name']}** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -376,7 +377,7 @@ jobs:
           - Prop firm profile: [{firm['name']} Profile]({firm['url']})
           - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-          ## {firm['name']} Deal Dataset: Field Definitions
+          ## {firm['name']} Deals History Dataset: Field Definitions
 
           One row per deal. The first fields are the observation exactly as the
           PropFirmDiscount API returns it; the firm's own code fields and the
@@ -507,7 +508,7 @@ jobs:
               dataset_data = {
                   "@context": "https://schema.org",
                   "@type": "Dataset",
-                  "name": f"{firm['name']} Discount Codes & Deal History Dataset",
+                  "name": f"{firm['name']} Discount Code & Deals History Dataset",
                   "description": answer,
                   "url": f"https://propfirmdiscounts.github.io/{slug}-deals/",
                   "sameAs": firm['url'],
@@ -627,7 +628,7 @@ jobs:
               facts.append(f"- Activate: {activation}")
           facts.append(f"- Firm page: {firm['url']}")
 
-          # Current deal block for the card — gives it substance.
+          # Latest deal block for the card — gives it substance.
           current_deal = f"## Latest {firm['name']} deal: {latest['title']}\n\n"
           current_deal += f"- Published: {latest['date_published']}\n"
           current_deal += f"- Offer ends: {latest.get('date_exp') or 'N/A'}\n"
@@ -645,7 +646,7 @@ jobs:
 
           front = ('---\n'
                    'license: other\n'
-                   'pretty_name: ' + name + ' Discount Codes & Deal History\n'
+                   'pretty_name: ' + name + ' Discount Code & Deals History\n'
                    'configs:\n'
                    '- config_name: ' + slug + '-deals\n'
                    '  data_files:\n'
@@ -670,7 +671,7 @@ jobs:
           if has_code:
               card_h1 = f"{name} Discount Code: {card_rate} with code {code} ({card_year})"
           else:
-              card_h1 = f"{name} Deals ({card_year})"
+              card_h1 = f"{name} Deals History ({card_year})"
           body = (f"# {card_h1}\n\n"
                   f"{answer}\n\n"
                   + '\n'.join(facts) + "\n\n"
@@ -775,7 +776,7 @@ jobs:
           # agree within one run.
           if [ "$STATE" = "standing" ]; then
           cat > llms.txt << EOF
-          # $FIRM_NAME Discount Codes
+          # $FIRM_NAME Discount Code & Deals History
 
           This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
 
@@ -801,7 +802,7 @@ jobs:
           EOF
           else
           cat > llms.txt << EOF
-          # $FIRM_NAME Deals
+          # $FIRM_NAME Discount Code & Deals History
 
           This dataset tracks historical deal observations for $FIRM_NAME from PropFirmDiscount.com.
 
