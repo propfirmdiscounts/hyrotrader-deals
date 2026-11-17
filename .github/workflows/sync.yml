@@ -140,11 +140,12 @@ jobs:
               code = ''
               is_global = False
 
-          # The H1 names what the repository actually holds. Calling it a
-          # "Discount Code" page when there is no code is the same false claim
-          # as printing the dead code, just in a shorter form.
-          head = (f"{firm['name']} Discount Code & Deal History" if has_code
-                  else f"{firm['name']} Deals & Deal History")
+          # The H1 is one fixed string for every firm. It used to switch to
+          # "Deals & Deal History" when the firm had no standing code, which
+          # made one family of repos carry two different head terms for the
+          # same kind of page. "Discount Codes" still holds without a standing
+          # code: the deals each carry their own campaign code.
+          head = f"{firm['name']} Discount Codes & Deal History"
 
           activation = record.get('activation_link') or ''
 
@@ -506,8 +507,7 @@ jobs:
               dataset_data = {
                   "@context": "https://schema.org",
                   "@type": "Dataset",
-                  "name": f"{firm['name']} Deal History Dataset" if not has_code
-                          else f"{firm['name']} Discount Codes & Deal History Dataset",
+                  "name": f"{firm['name']} Discount Codes & Deal History Dataset",
                   "description": answer,
                   "url": f"https://propfirmdiscounts.github.io/{slug}-deals/",
                   "sameAs": firm['url'],
@@ -645,7 +645,7 @@ jobs:
 
           front = ('---\n'
                    'license: other\n'
-                   'pretty_name: ' + name + ' Discount Code\n'
+                   'pretty_name: ' + name + ' Discount Codes & Deal History\n'
                    'configs:\n'
                    '- config_name: ' + slug + '-deals\n'
                    '  data_files:\n'
