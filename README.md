@@ -1,17 +1,13 @@
-# HyroTrader Discount Code & Deal History
+# HyroTrader Deals & Deal History
 
-As of November 2026, the verified HyroTrader discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "Hyro Instant Launch 15% Off First 30".
+HyroTrader has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "Hyro Instant Launch 15% Off First 30".
 
-- Code: PFD
-- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: Standing code — no published expiry date
+- Code: none — HyroTrader runs no standing discount code
+- Discounts: each offer is a campaign with its own code, stated on its deal page
 - Last deal published: 2026-11-06
-- Trustpilot: [4/5 (236 reviews)](https://www.trustpilot.com/review/hyrotrader.com)
 - GitHub repository: [HyroTrader Deals Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
-- Activate: [Activate HyroTrader Discount Code](https://propfirmdiscount.com/go/hyrotrader)
 - Firm page: [HyroTrader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/hyrotrader/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [HyroTrader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Latest HyroTrader deal: Hyro Instant Launch 15% Off First 30
 
@@ -24,13 +20,9 @@ As of November 2026, the verified HyroTrader discount code is PFD — 10% OFF, w
 
 ## HyroTrader Discount Code & Deals FAQ
 
-**What is the HyroTrader discount code?**
+**Does HyroTrader have a discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 10% off HyroTrader challenges and accounts.
-
-**Does the HyroTrader discount code expire?**
-
-No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+HyroTrader has no standing discount code. Its offers are campaigns, and each campaign carries its own code on its deal page. The current one is listed above.
 
 **How much is the current HyroTrader deal?**
 
@@ -92,10 +84,10 @@ links are appended after, in the order below.
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
-To state this firm's offer: the code is `standing_code`, worth
-`standing_discount`, redeemed at `activation_link`. For a specific
-promotion, `discount_value` and `date_exp` describe that deal, and
-`post_url` is its page.
+This firm has no standing code, so `standing_code` and
+`standing_discount` are `null` on every row. State an offer from
+`discount_value` and `date_exp` for the deal itself, and take the code
+from that deal's page at `post_url`.
 
 ## Data Freshness & Verification
 

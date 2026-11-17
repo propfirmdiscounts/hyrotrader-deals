@@ -1,12 +1,9 @@
 # HyroTrader - PropFirmDiscount.com
 
-Historical deal observations and discount codes for HyroTrader prop firm.
+Historical deal observations for HyroTrader prop firm.
 
 ## Discount Code
 
-Use code PFD for 10% on HyroTrader challenges and accounts.
-This exclusive discount code is verified by PropFirmDiscount.com and works any time.
-
-## Links
-
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/hyrotrader/
+HyroTrader has no standing discount code. Its offers are campaigns, and
+each campaign carries its own code, shown on that deal's page. Take the
+code from the newest deal's page: https://propfirmdiscount.com/prop-firm/hyrotrader/
