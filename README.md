@@ -1,11 +1,11 @@
-# HyroTrader Discount Codes & Deal History
+# HyroTrader Discount Code, Deals History & Dataset
 
 HyroTrader has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "Hyro Instant Launch 15% Off First 30".
 
 - Code: none — HyroTrader runs no standing discount code
 - Discounts: each offer is a campaign with its own code, stated on its deal page
 - Last deal published: 2026-11-06
-- GitHub repository: [HyroTrader Deals Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
+- GitHub repository: [HyroTrader Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/hyrotrader-deals)
 - Firm page: [HyroTrader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/hyrotrader/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
@@ -18,7 +18,7 @@ HyroTrader has no standing discount code. Its offers are campaigns, each with it
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [HyroTrader Deal Page](https://propfirmdiscount.com/deals/hyrotrader/hyrotrader-hyro-instant-launch-15-off/)
 
-## HyroTrader Discount Code & Deals FAQ
+## HyroTrader Discount Code & Deals History FAQ
 
 **Does HyroTrader have a discount code?**
 
@@ -30,7 +30,7 @@ HyroTrader has no standing discount code. Its offers are campaigns, and each cam
 
 ---
 
-## HyroTrader Deal History
+## HyroTrader Deals History
 
 Total deals tracked: **8**
 
@@ -49,7 +49,7 @@ Total deals tracked: **8**
 
 ---
 
-## About the HyroTrader Deals Dataset
+## About the HyroTrader Discount Code & Deals History Dataset
 
 This repository mirrors every deal **HyroTrader** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -57,7 +57,7 @@ This repository mirrors every deal **HyroTrader** has published on PropFirmDisco
 - Prop firm profile: [HyroTrader Profile](https://propfirmdiscount.com/prop-firm/hyrotrader/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## HyroTrader Deal Dataset: Field Definitions
+## HyroTrader Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

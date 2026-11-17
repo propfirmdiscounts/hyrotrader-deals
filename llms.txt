@@ -1,4 +1,4 @@
-# HyroTrader Deals
+# HyroTrader Discount Code & Deals History
 
 This dataset tracks historical deal observations for HyroTrader from PropFirmDiscount.com.
 
