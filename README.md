@@ -1,4 +1,4 @@
-# HyroTrader Deals & Deal History
+# HyroTrader Discount Codes & Deal History
 
 HyroTrader has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "Hyro Instant Launch 15% Off First 30".
 
